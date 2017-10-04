@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ChromaKey/Scenes/Sample_ChromaKey.unity
+  isLoaded: 1
+  isActive: 1
